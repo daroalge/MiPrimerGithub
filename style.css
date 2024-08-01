@@ -37,3 +37,7 @@ li {
 p {
     font-size: 1em;
 }
+
+.image__header{
+    width: 50%;
+}
